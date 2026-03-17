@@ -1,0 +1,9 @@
+.vscode/
+exercicio-*
+gerador
+!*.c
+*.o
+*.out
+*.exe
+*.bin
+*.txt
